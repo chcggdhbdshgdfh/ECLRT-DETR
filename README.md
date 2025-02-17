@@ -24,7 +24,7 @@ Our experimental environment relies on the PyCharm 2021 build, and the deep lear
    ```
 ## Data Preparing
 
-This implementation uses DIV2K and KID-F datasets for training, and various benchmark datasets for testing.
+This implementation uses joint dataset and MSAR datasets for trainin.
 
 ### Training Dataset
 
@@ -38,8 +38,17 @@ Directly run the train.py file in the project, before running, you need to chang
 
 ## Visualization
 ### Comparison of ship scene target detection
-![Comparison of ship scene target detection](https://github.com/PomKlementieff/NeXtSRGAN/raw/main/results/KID-F_Visual_Results.jpg)
-
+![Comparison of ship scene target detection](https://github.com/chcggdhbdshgdfh/ECLRT-DETR/blob/master/Visualization/ship1.jpg)
+![Comparison of ship scene target detection](https://github.com/chcggdhbdshgdfh/ECLRT-DETR/blob/master/Visualization/ship2.jpg)
+### Comparison of aircraft scene target detection
+![Comparison of aircraft scene target detection](https://github.com/chcggdhbdshgdfh/ECLRT-DETR/blob/master/Visualization/plane1.jpg)
+![Comparison of aircraft scene target detection](https://github.com/chcggdhbdshgdfh/ECLRT-DETR/blob/master/Visualization/plane2.jpg)
+### Comparison of bridge scene target detection
+![Comparison of bridge scene target detection](https://github.com/chcggdhbdshgdfh/ECLRT-DETR/blob/master/Visualization/bridge1.jpg)
+![Comparison of bridge scene target detection](https://github.com/chcggdhbdshgdfh/ECLRT-DETR/blob/master/Visualization/bridge2.jpg)
+### Comparison of target detection in tank scene
+![Comparison of target detection in tank scene](https://github.com/chcggdhbdshgdfh/ECLRT-DETR/blob/master/Visualization/oil%20tank1.jpg)
+![Comparison of target detection in tank scene](https://github.com/chcggdhbdshgdfh/ECLRT-DETR/blob/master/Visualization/oil%20tank2.jpg)
 ## How to view results
 
 After running the runs file will appear, view the visualisation as well as the training data in the runs file
