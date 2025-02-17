@@ -1,0 +1,11 @@
+# dataset path
+path: /home/baby/STQ/ECLRT-DETR
+train: ./dataset/ship_plane__ssdd_hrsid_saraircraft/images/train
+val: ./dataset/ship_plane__ssdd_hrsid_saraircraft/images/val
+test: ./dataset/ship_plane__ssdd_hrsid_saraircraft/images/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ['ship','plane']
