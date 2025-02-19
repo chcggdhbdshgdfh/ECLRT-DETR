@@ -1,5 +1,5 @@
 # ECLRT-DETR
-Code in “Lightweight and Real-Time SAR Object Detection Transformer Based on Enhanced Cross-Scale Fusion”
+Code in “Lightweight and Real-Time Detection Transformer with Enhanced Cross-Scale Fusion for SAR Object Detection”
 
 ## Contents
 
@@ -37,6 +37,9 @@ This implementation uses joint dataset and MSAR datasets for trainin.
 Directly run the train.py file in the project, before running, you need to change the yaml file path of the model and the dataset configuration yaml file path
 
 ## Visualization
+
+The first column shows the ground truth annotations, the second column shows the prediction results of YOLOv8, and the third column shows the prediction results of ECLRT-DETR.
+
 ### Comparison of ship scene target detection
 ![Comparison of ship scene target detection](https://github.com/chcggdhbdshgdfh/ECLRT-DETR/blob/master/Visualization/ship1.jpg)
 ![Comparison of ship scene target detection](https://github.com/chcggdhbdshgdfh/ECLRT-DETR/blob/master/Visualization/ship2.jpg)
