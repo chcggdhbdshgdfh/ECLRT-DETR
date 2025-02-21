@@ -79,7 +79,7 @@ This implementation uses joint dataset and MSAR datasets for trainin.
 
 ## How to train
 
-Directly run the train.py file in the project, before running, you need to change the yaml file path of the model`./dataset/data.yaml`  and the dataset configuration yaml file path`./ultralytics/cfg/models/rt-detr/ECLRT-DETR1.yaml`
+Directly run the `train.py` file in the project, before running, you need to change the yaml file path of the model`./dataset/data.yaml`  and the dataset configuration yaml file path`./ultralytics/cfg/models/rt-detr/ECLRT-DETR1.yaml`
 
 ## Visualization
 
