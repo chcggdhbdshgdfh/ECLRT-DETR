@@ -111,7 +111,7 @@ datasets:The datasets can be obtained at https://pan.baidu.com/s/1QaZSznz89Yj90U
   title={Lightweight and Real-Time Detection Transformer with Enhanced Cross-Scale Fusion for SAR Object Detection},
   author={Tanqing Sun, Xianjun Zhang, Ziyu Li, Mingjia Wang, Na You and Yuping Feng},
   journal={The Visual Computer},
-  pages={1--13},
+  pages={1-13},
   year={2024},
   publisher={Springer}
 }
