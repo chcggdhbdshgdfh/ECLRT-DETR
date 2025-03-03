@@ -1,5 +1,5 @@
 # ECLRT-DETR
-Code in “Lightweight and Real-Time Detection Transformer with Enhanced Cross-Scale Fusion for SAR Object Detection”
+Code in “ECLRT-DETR: A Lightweight and Real-Time Detection Transformer Based on Enhanced Cross-Scale Fusion for SAR Object Detection”
 Synthetic aperture radar (SAR) images pose significant challenges for object detection due to their complex backgrounds, mul-ti-scale targets, and numerous small targets. Addressing these issues, this paper proposes ECLRT-DETR, a lightweight real-time detection transformer based on enhanced cross-scale fusion specifically designed for multi-class SAR object detection.
 
 ## Contents
@@ -110,8 +110,8 @@ datasets:The datasets can be obtained at https://pan.baidu.com/s/1QaZSznz89Yj90U
 @article{ECLRT-DETR,
   title={Lightweight and Real-Time Detection Transformer with Enhanced Cross-Scale Fusion for SAR Object Detection},
   author={Tanqing Sun, Xianjun Zhang, Ziyu Li, Mingjia Wang, Na You and Yuping Feng},
-  journal={The Visual Computer},
-  pages={1-13},
+  journal={Signal, Image and Video Processing},
+  pages={1-10},
   year={2024},
   publisher={Springer}
 }
